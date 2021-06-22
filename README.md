@@ -1,13 +1,14 @@
-<img align="right" src="https://github.com/ioarun/ioarun/blob/main/ml-comic-2.jpeg" alt="Coder GIF" width="420" height="330">
-
-
+<figure>
+    <img align="right" src="https://github.com/ioarun/ioarun/blob/main/ml-comic-2.jpeg" alt="Coder GIF" width="420" height="330">
+    <figcaption><a href="https://www.instagram.com/sandserifcomics/">credits : sandserif</a></figcaption>
+</figure>
 
 ### Hi there, I am Arun Kumar 👋
 [![Linkedin Badge](https://img.shields.io/badge/-ioarun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ioarun/)](https://www.linkedin.com/in/ioarun/)
 [![Gmail Badge](https://img.shields.io/badge/-arun.etc.kumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arun.etc.kumar@gmail.com)](mailto:arun.etc.kumar@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://ioarun.github.io/)
-
+- ⚡ Fun quote: “When you’re fundraising, it’s AI. When you’re hiring, it’s ML. When you’re implementing, it’s logistic regression.” - 
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Artificial Intelligence ✍️
