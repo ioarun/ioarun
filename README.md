@@ -1,7 +1,5 @@
-<figure>
-    <img align="right" src="https://github.com/ioarun/ioarun/blob/main/ml-comic-2.jpeg" alt="Coder GIF" width="420" height="330">
-    <figcaption align="right"><a href="https://www.instagram.com/sandserifcomics/">credits : sandserif</a></figcaption>
-</figure>
+<img align="right" src="https://github.com/ioarun/ioarun/blob/main/ml-comic-2.jpeg" alt="Coder GIF" width="420" height="330">
+
 
 ### Hi there, I am Arun Kumar 👋
 [![Linkedin Badge](https://img.shields.io/badge/-ioarun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ioarun/)](https://www.linkedin.com/in/ioarun/)
