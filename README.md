@@ -1,6 +1,6 @@
-<figure align="right" >
-    <img src="https://github.com/ioarun/ioarun/blob/main/ml-comic-2.jpeg" alt="Coder GIF" width="420" height="330">
-    <figcaption><a href="https://www.instagram.com/sandserifcomics/">credits : sandserif</a></figcaption>
+<figure>
+    <img align="right" src="https://github.com/ioarun/ioarun/blob/main/ml-comic-2.jpeg" alt="Coder GIF" width="420" height="330">
+    <figcaption align="right"><a href="https://www.instagram.com/sandserifcomics/">credits : sandserif</a></figcaption>
 </figure>
 
 ### Hi there, I am Arun Kumar 👋
