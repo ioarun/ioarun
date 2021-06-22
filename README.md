@@ -30,7 +30,8 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=matplotlib)
 
-![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=azure)
+![MSAzure](https://img.shields.io/badge/-MSAzure-000000?style=flat&logo=MSAzure)
+![IBMCloud](https://img.shields.io/badge/-IBMCloud-000000?style=flat&logo=ibmcloud)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 ![OpenAIGym](https://img.shields.io/badge/-OpenAIGym-000000?style=flat&logo=openai)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
