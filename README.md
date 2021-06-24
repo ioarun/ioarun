@@ -35,4 +35,5 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 ![OpenAIGym](https://img.shields.io/badge/-OpenAIGym-000000?style=flat&logo=openai)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![Pip](https://img.shields.io/badge/-Pip-000000?style=flat&logo=pip)
 
