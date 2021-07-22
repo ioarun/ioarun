@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/ioarun/ioarun/blob/main/ml-comic-2.jpeg" alt="Coder GIF" width="420" height="330">
 
 
-### Hi there, I am Arun Kumar 👋
+### Hi there, I am Arun 👋
 [![Linkedin Badge](https://img.shields.io/badge/-ioarun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ioarun/)](https://www.linkedin.com/in/ioarun/)
 [![Gmail Badge](https://img.shields.io/badge/-arun.etc.kumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arun.etc.kumar@gmail.com)](mailto:arun.etc.kumar@gmail.com) 
 
