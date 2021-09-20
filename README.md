@@ -1,12 +1,12 @@
 <img align="right" src="https://github.com/ioarun/ioarun/blob/main/ml-comic-2.jpeg" alt="Coder GIF" width="420" height="330">
 
 
-
-### Hi there, I am Arun Kumar 👋
+### Hi there, I am Arun 👋
 [![Linkedin Badge](https://img.shields.io/badge/-ioarun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ioarun/)](https://www.linkedin.com/in/ioarun/)
 [![Gmail Badge](https://img.shields.io/badge/-arun.etc.kumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arun.etc.kumar@gmail.com)](mailto:arun.etc.kumar@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://ioarun.github.io/)
+- ⚡ Fun quote: “When you’re fundraising, it’s AI. When you’re hiring, it’s ML. When you’re implementing, it’s logistic regression.” 
 
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -30,12 +30,10 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=matplotlib)
 
-![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=azure)
+![MSAzure](https://img.shields.io/badge/-MSAzure-000000?style=flat&logo=MSAzure)
+![IBMCloud](https://img.shields.io/badge/-IBMCloud-000000?style=flat&logo=ibmcloud)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 ![OpenAIGym](https://img.shields.io/badge/-OpenAIGym-000000?style=flat&logo=openai)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-
-<div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>
+![Pip](https://img.shields.io/badge/-Pip-000000?style=flat&logo=pip)
 
