@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ioarun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ioarun/)](https://www.linkedin.com/in/ioarun/)
 [![Gmail Badge](https://img.shields.io/badge/-arun.etc.kumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arun.etc.kumar@gmail.com)](mailto:arun.etc.kumar@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://ioarun.github.io/)
 - ⚡ Fun quote: “When you’re fundraising, it’s AI. When you’re hiring, it’s ML. When you’re implementing, it’s logistic regression.” 
 
 💻 **Things I love**
